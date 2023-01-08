@@ -47,17 +47,6 @@ Application file : [Face_Recognition.apk](https://drive.google.com/file/d/1JTSS6
  </table>
  
 
- 
- <table>
-  <tr>
-    <td><b>Actions</b></td>
-     <td><b>View Recognitions</b></td>
-  </tr>
-  <tr>
-    <td><img src="images/actions.jpeg" width=270 height=480></td>
-    <td><img src="images/view_reco.jpeg" width=270 height=480></td>
-  </tr>
- </table>
- 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
