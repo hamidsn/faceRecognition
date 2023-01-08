@@ -1,7 +1,8 @@
 # Real Time Face Recognition with TfLite
 
 A minimalistic Face Recognition module which can be easily incorporated in any Android project.
-Thanks to
+
+## Thanks to
 https://github.com/AbhinavS99/AbhinavS99-Realtime-Face-Recognition-with-TfLite/blob/master/app/build.gradle
 
 ## Key Features 
