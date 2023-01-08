@@ -271,7 +271,7 @@ public class MainActivity extends AppCompatActivity implements MainCallBack {
             if (nearest != null) {
                 final String name = nearest.first;
                 distance = nearest.second;
-                if (distance < 0.740f) {
+                if (distance < 0.870f) {
                     viewModel.getRecoNameText().set(name.substring(0, name.indexOf("@")));
                 } else {
                     viewModel.getRecoNameText().set("Unknown");
