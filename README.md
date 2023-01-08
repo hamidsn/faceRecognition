@@ -32,19 +32,6 @@ git clone https://github.com/AbhinavS99/AbhinavS99-Realtime-Face-Recognition-wit
 ```
 Application file : [Face_Recognition.apk](https://drive.google.com/file/d/1JTSS6dog-eTv9zfMa9ixRaRguTW3gQtw/view?usp=sharing)
 
-## Usage
-<table>
-  <tr>
-    <td><b>1.Add Face</b></td>
-     <td><b>2.Recognize Face</b></td>
-     
-  </tr>
-  <tr>
-    <td><img src="images/add_face.jpeg" width=270 height=480></td>
-    <td><img src="images/recognize_face.jpeg" width=270 height=480></td>
-  
-  </tr>
- </table>
  
 
 
